@@ -1,11 +1,11 @@
 {
-    "name": "demafiles_unit5_exercise",
-    "short_name": "demafiles_unit5_exercise",
+    "name": "Hannah's Profile",
+    "short_name": "Hannah's Profile",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Hannah's Profile Application.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

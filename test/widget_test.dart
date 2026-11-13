@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:demafiles_unit5_exercise/main.dart';
+import 'package:hannah_profile_app/main.dart';
 
 void main() {
   testWidgets('profile and pet photos load from bundled assets', (
