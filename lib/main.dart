@@ -6,6 +6,9 @@ import 'screens/movies_screen.dart';
 import 'screens/picks_screen.dart';
 
 
+void main() {
+  runApp(const MyApp());
+}
 
 // Custom Palette
 class AppColors {
